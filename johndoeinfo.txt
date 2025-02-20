@@ -1,4 +1,4 @@
-![photo](johndoe.jpeg) 
+![photo](johndoe.jpeg)
 John Doe
 
 Arlington, GA 39813 ◆ 555 555 5555 ◆ example@example.com
